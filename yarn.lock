@@ -7748,10 +7748,10 @@ stylis@^4.0.3:
   version "4.0.10"
   resolved "https://registry.yarnpkg.com/stylis/-/stylis-4.0.10.tgz#446512d1097197ab3f02fb3c258358c3f7a14240"
 
-superjson@1.7.5:
-  version "1.7.5"
-  resolved "https://registry.yarnpkg.com/superjson/-/superjson-1.7.5.tgz#596d080fd3c010f6d991c53a292c03704f160649"
-  integrity sha512-AHuFroOcMTK6LdG/irwXIHwH6Gof5nh42iywnhhf7hMZ6UJqFDRtJ82ViJg14UX3AG8vWRf4Dh3oPIJcqu16Nw==
+superjson@1.8.2:
+  version "1.8.2"
+  resolved "https://registry.yarnpkg.com/superjson/-/superjson-1.8.2.tgz#6245e598baeba029902d0cdc28ceaaad2ee1e1b7"
+  integrity sha512-gVZEvpmOC11DfnLtm6i/iUNxaozU5ZI4tM7WsBsXmFJAnwj8KQPRQAYfQ4iPMquKNrG6un9VfyNf0F0iD2IWGQ==
   dependencies:
     debug "^4.3.1"
     lodash.clonedeep "^4.5.0"
